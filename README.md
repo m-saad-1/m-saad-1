@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi! I’m an Experienced Full Stack Web Developer specializing in MERN, PHP, React, JavaScript, HTML, CSS, JavaScript, and other powerful technologies, dedicated to building high-impact websites that drive business growth. I deliver complete website development solutions, including advanced functionalities, API integration, and robust security features. My expertise spans both front-end and back-end development, with a focus on creating fully responsive, user-friendly, and high-performing experiences. I am passionate about transforming ideas into reality.
-
+Hi! I’m Muhammad Saad, an AI-driven Full-Stack Developer specializing in MERN, React, PHP, and modern web technologies. I build scalable web and app systems, SaaS platforms, and automation solutions that turn ideas into high-impact products. My expertise spans both front-end and back-end development, delivering fully responsive, user-friendly, and high-performance experiences, complete with advanced functionalities, API integrations, and robust security. Passionate about transforming concepts into production-ready solutions, I focus on creating websites and applications that drive real business growth.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-saad24/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadsaad23305@gmail.com) 
